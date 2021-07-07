@@ -8,7 +8,7 @@
 		<version>2.5.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.training.spring</groupId>
+	<groupId>com.training.spring</groupId>x
 	<artifactId>ms-payment</artifactId>
 	<version>1.0.0</version>
 	<name>ms-payment</name>

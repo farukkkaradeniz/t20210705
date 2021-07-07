@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/customer-trigger/customer-trigger.iml" filepath="$PROJECT_DIR$/customer-trigger/customer-trigger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-customer/ms-customer.iml" filepath="$PROJECT_DIR$/ms-customer/ms-customer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-order/ms-order.iml" filepath="$PROJECT_DIR$/ms-order/ms-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-payment/ms-payment.iml" filepath="$PROJECT_DIR$/ms-payment/ms-payment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node-config/node-config.iml" filepath="$PROJECT_DIR$/node-config/node-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node-discovery/node-discovery.iml" filepath="$PROJECT_DIR$/node-discovery/node-discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springtraining/springtraining.iml" filepath="$PROJECT_DIR$/springtraining/springtraining.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/t20210705.iml" filepath="$PROJECT_DIR$/.idea/t20210705.iml" />
+    </modules>
+  </component>
+</project>

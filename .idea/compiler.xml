@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springtraining" />
+        <module name="ms-customer" />
+        <module name="ms-payment" />
+        <module name="node-config" />
+        <module name="customer-trigger" />
+        <module name="ms-order" />
+        <module name="node-discovery" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="customer-trigger" target="11" />
+      <module name="ms-customer" target="11" />
+      <module name="ms-order" target="1.8" />
+      <module name="ms-payment" target="1.8" />
+      <module name="node-config" target="1.8" />
+      <module name="node-discovery" target="1.8" />
+      <module name="springtraining" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="customer-trigger" options="-parameters" />
+      <module name="ms-customer" options="-parameters" />
+      <module name="ms-order" options="-parameters" />
+      <module name="ms-payment" options="-parameters" />
+      <module name="node-config" options="-parameters" />
+      <module name="node-discovery" options="-parameters" />
+      <module name="springtraining" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+server:
+  port: ${PORT:13000}
+spring:
+  application:
+    name: customer-trigger
+  cloud:
+    config:
+      uri: http://127.0.0.1:8888
